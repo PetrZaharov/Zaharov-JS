@@ -3,3 +3,6 @@ print('Hello everybody:');
 print('Hello:');
 print('Hello my dear friend:');
 print('Glad too see you:');
+print('Hello world:');
+print('Hello:');
+
